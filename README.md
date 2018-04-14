@@ -2,7 +2,7 @@
 Classifying voices of different people using tensorflow. 
 
 ## Intro
-
+Trying to seperate voices. 
 ## Prerequisites
 
 ## Mode
